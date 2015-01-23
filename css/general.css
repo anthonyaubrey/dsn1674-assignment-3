@@ -29,14 +29,30 @@ a {
 
 .right {
   text-align: right;
+  font-family: serif;
+  font-size: .9rem;
 }
 
 .center {
   text-align: center;
   font-size: 2rem;
   font-family: serif;
-  font-style: italic,bold;
+  font-style: italic;
 }
 p {
   font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.romannums {
+  list-style-type: lower-roman;
+  padding: 20px;
+}
+
+.aa {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
 }
