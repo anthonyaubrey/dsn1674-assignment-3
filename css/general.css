@@ -1,14 +1,42 @@
 html {
-  background-color: #96887E;
+  background-color: #AFACA7;
+  font-family: "Arial", sans-serif;
+  line-height: 1.5rem;
 }
 
 h1, h2 {
   font-weight: normal;
   font-size: 5rem;
   font style: normal;
-  font-family: 'Anton', sans-serif; 
+  font-family: 'Changa One', cursive;
+  color: #665E5E;
 }
 
 h2 {
-  font-size:
+  font-size: 3.5rem;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+
+
+}
+
+a {
+  color: #493034;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+  font-size: 2rem;
+  font-family: serif;
+  font-style: italic,bold;
+}
+p {
+  font-size: 1.5rem;
 }
